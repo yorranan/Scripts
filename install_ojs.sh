@@ -1,5 +1,7 @@
 #!/bin/sh
 
+# Script requirements: Debian/Ubuntu; PostgreSQL, PHP.
+
 HOST=$1  # First argument: Host IP
 DB_NAME=$2  # Second argument: Database name
 TOOL_VERSION=$3  # Third argument: Tool version
